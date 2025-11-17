@@ -83,8 +83,6 @@ Example error response:
 
 ## UML Diagram
 
-## UML Sequence Diagram
-
 ```mermaid
 sequenceDiagram
     participant Client
